@@ -23,5 +23,5 @@ def first_repeating_element(arr):
     return min_index + 1 if min_index != float('inf') else -1
 
 # Example
-arr = [1, 5, 3, 4, 3, 5, 6]
+arr = [1, 5, 3, 4, 3, 5, 5]
 print(first_repeating_element(arr))  # Output: 2
