@@ -96,3 +96,4 @@ class VendingMachine:
 
 v = VendingMachine
 v.vendingMachine(0)
+
